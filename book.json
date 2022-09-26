@@ -1,0 +1,24 @@
+{
+  "title": "Introduction of Demoscene",
+  "author": "Pengan Zhou",
+  "language": "en",
+  "styles": {
+    "website": "font.css",
+    "ebook": "font.css",
+    "pdf": "font.css",
+    "mobi": "font.css",
+    "epub": "font.css"
+  },
+  "pdf": {
+    "pageNumbers": true,
+    "fontSize": 10,
+    "paperSize": "a5",
+    "fontFamily": "Times new roman",
+    "margin": {
+      "right": 0,
+      "left": 0,
+      "top": 0,
+      "bottom": 0
+    }
+  }
+}
