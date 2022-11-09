@@ -6,7 +6,7 @@
 * [3: Warez and Cracktro](03-warez-cracktro.md)
 * [4: The old computers in the scene](04-oldskool.md)
 * [5: PC demo](05-pc-demo.md)
-* [6: "wild" demo](06-wilddemo.md)
+* [6: "Wild" demo](06-wilddemo.md)
 * [7：Sound chips and chip music](07-soundchip-chiptune.md)
 * [8: Chip Music as Hacker Culture](08-chiptune-for-sceners.md)
 * [9: "New Generation" Chip Music Scene](09-newschool-chiptune.md)
