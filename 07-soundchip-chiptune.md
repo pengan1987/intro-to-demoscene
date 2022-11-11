@@ -1,8 +1,8 @@
 # Sound chips and chip music
-This is the seventh lesson in the Introduction to the Demo Scene, and it is also the first lesson in the Chip music/Chiptune unit. An important reason for introducing chip music in the demo scene is that it is a very important intersection between the demo scene and popular culture.
+This is the seventh lesson in the Introduction to the demoscene, and it is also the first lesson in the Chip music/Chiptune unit. An important reason for introducing chip music in the demoscene is that it is a very important intersection between the demoscene and popular culture.
 
 ## The intersection of the scene and popular culture
-The demo scene has interacted with popular culture in many different areas, but chip music is one of the most observable and informative of these areas. Through chip music we can see the interconnection between the demo scene and popular culture in at least two dimensions: on the one hand, chip music is closely linked to video games, benefiting from the development of video game music and also feeding back some ideas to the video game field; on the other hand, it is linked to and inspired by popular music.
+The demoscene has interacted with popular culture in many different areas, but chip music is one of the most observable and informative of these areas. Through chip music we can see the interconnection between the demoscene and popular culture in at least two dimensions: on the one hand, chip music is closely linked to video games, benefiting from the development of video game music and also feeding back some ideas to the video game field; on the other hand, it is linked to and inspired by popular music.
 
 A representative example is Zombie Nation's Kernkraft 400, whose iconic melodies can often be heard at video game festivals and stadiums. In the 2018 VICE-produced short film "The Story of the Biggest Sports Stadium Hit: "Kernkraft 400" by Zombie Nation) reveals the connection between this melody, which can be heard at almost all electro festivals and many sporting events, and the chip music scene, which was inspired by the music of the Commodore 64 game and utilized the typical chip music device SID Station during the recording process.
 
@@ -45,7 +45,7 @@ Another important sound chip was the Atari POKEY, which was developed specifical
 
 Compared to Atari TIA, the biggest change of POKEY is that it has 256 levels of pitch, more accurate pitch control makes POKEY more convenient when creating music. In addition POKEY maintains the 4-bit amplitude control accuracy, but has the sound channels increased from two to four, so the music written for POKEY can have more sound parts.
 
-Let's take a look at what the POKEY effect looks like. On the Atari 8-bit series of computers, many games have full music added to the title screen, but due to machine performance limitations, not many games have full background music, while later demo programs developed by enthusiasts have the effect of synchronized sound and picture.
+Let's take a look at what the POKEY effect looks like. On the Atari 8-bit series of computers, many games have full music added to the title screen, but due to machine performance limitations, not many games have full background music, while later demos developed by enthusiasts have the effect of synchronized sound and picture.
 
 In the Atari SAP Music Archive, over 5,000 pieces of music written for the Atari POKEY chip are archived: http://asma.atari.org/
 
@@ -67,7 +67,7 @@ SID's design team left MOS Technology to form Ensoniq, a major manufacturer of s
 
 SID is similar to Atari POKEY and Red & White APU, which also provide 4-bit precision amplitude control, but it provides finer pitch control than other chips of the same period. SID uses 16 bits to control pitch, which gives it a pitch of 65536 levels.
 
-The SID chip offers 3 channels, it does not have as many channels as the Red & White APU, but offers additional flexibility. all three channels of the SID chip can be flexibly switched between the 4 functions of sawtooth wave, triangle wave, pulse and noise, which provides SID music creators with a higher degree of freedom and allows for an unprecedented variety of genres on the Commodore 64. Authors of both games and demo programs have created a large number of musical compositions for the SID chip. In the High Voltage SID Collection, over 55,000 SID music compositions are collected
+The SID chip offers 3 channels, it does not have as many channels as the Red & White APU, but offers additional flexibility. all three channels of the SID chip can be flexibly switched between the 4 functions of sawtooth wave, triangle wave, pulse and noise, which provides SID music creators with a higher degree of freedom and allows for an unprecedented variety of genres on the Commodore 64. Authors of both games and demos have created a large number of musical compositions for the SID chip. In the High Voltage SID Collection, over 55,000 SID music compositions are collected
 
 ### General Instrument AY-3-8910
 
@@ -148,7 +148,7 @@ The first Trackers were born in the hands of teenagers, and in 1986, 18-year-old
 
 Distributed free of charge, SoundMonitor has had quite a wide impact on the hobbyist community. As the name suggests, it is an optimized version of the code monitor-based production process previously described by Rob Hubbard: SoundMonitor is still based on the creation of musical data in hexadecimal numbers, but its operational logic is more convenient, as the data for manipulating the sound chip is arranged vertically in chronological order and can be modified directly by moving the keyboard You can directly modify the corresponding numbers by moving the cursor with the keyboard, and at the same time you can play and listen to the modified results at any time. This timeline sequence display, instant modification and monitoring logic simplifies the process of writing music compared to the previous core of code modification.
 
-The popularity of SoundMonitor has also benefited from the spread of the demo scene, with The Dutch USA-Team developing a modified version of SoundMonitor, Rock Monitor, which has spread more widely than the original SoundMonitor.
+The popularity of SoundMonitor has also benefited from the spread of the demoscene, with The Dutch USA-Team developing a modified version of SoundMonitor, Rock Monitor, which has spread more widely than the original SoundMonitor.
 
 SoundMonitor's vertical timeline centric editing approach is considered to have directly influenced the design of what is considered to be the first "true" (sample-based) Tracker software, Ultimate Soundtracker, in "The Origins of Soundtracker, Part 1 Part 1: Where the hell is Karsten Obarski? (Soundtracker origins, part 1: Where in the World is Karsten Obarski?) Several papers are cited to demonstrate the connection between Ultimate Soundtracker and SoundMonitor.
 
@@ -173,7 +173,7 @@ Compared to using a real sound chip, a "fake chip" is not limited by the number 
 
 > ...... During our fruitful discussion, I had the urge to ask about a topic that, as far as I could remember, was almost a taboo regarding the authenticity of chip music. fakebit. his answer immediately became unenthusiastic and, as the organizers told me, was one of the main reasons for his decision to withdraw from the "scene " for one of the main reasons [2]. As he explained, he felt that the chip scene was in a constant process of decline since the popularity of chip music in the early 21st century. As a result, chip music has become a hodgepodge of commercialized retro sound elements and video game nostalgia. He emphasized that those responsible for this ideological decline are chip musicians who want to appeal to a wider, uninformed audience. As the organizers conclude, it is impossible to conceptualize chip music without the actual hardware; it is like performing folk music without any folk instruments.
 
-Also this paper mentions the connection between the formation of the chip music scene and the demo scene:.
+Also this paper mentions the connection between the formation of the chip music scene and the demoscene:.
 
 > The first generation is considered quite pure (Pasdzierny 2012, 179) because it is directly related to the Demoscene (Tomczak 2011; Carlsson 2008, 162; Pasdzierny 2012; Nova 2014).
 
@@ -194,4 +194,4 @@ An important turning point that made game musicians leave chip music was the pro
 
 In the final episode of the documentary Diggin' in the Carts, the impact of CDs on video games is introduced with the examples of Tekken and Alloy Gear, and the title of the episode, The End Of An Era, refers to the end of the era when video game music was limited by the performance of machines and the extensive use of sound chips.
 
-Due to the introduction of CD digital tracks, video game music began to be commonly produced using film and television soundtracks, and sound chips were abandoned by mainstream game software developers. It was clear that game developers and the musicians employed by them had no incentive to create a "scene" for a technology that had been phased out in the industry. In the 20 years or so since the game industry stopped using sound chips, the "underground community" represented by the demo scene has been a decisive force in the survival of chip music, which is the main reason why many of the core chip music players disagree that chip music is a derivative of video games. The next lesson in this series will tell you more about the story of how chip music went underground and grew in the demo scene.
+Due to the introduction of CD digital tracks, video game music began to be commonly produced using film and television soundtracks, and sound chips were abandoned by mainstream game software developers. It was clear that game developers and the musicians employed by them had no incentive to create a "scene" for a technology that had been phased out in the industry. In the 20 years or so since the game industry stopped using sound chips, the "underground community" represented by the demoscene has been a decisive force in the survival of chip music, which is the main reason why many of the core chip music players disagree that chip music is a derivative of video games. The next lesson in this series will tell you more about the story of how chip music went underground and grew in the demoscene.
