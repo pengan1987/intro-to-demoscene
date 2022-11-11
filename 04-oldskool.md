@@ -1,4 +1,4 @@
-# The old computers in the scene
+# Old computers in the scene
 
 Today is the fourth lesson in the introduction to demo scenes. Starting with this lesson, we will discuss the evolution of the means and content of demo scenes in terms of the mediums used to create them, and in particular the computer platforms. Today is the first lesson of this unit and we would like to explore the most common types of computer platforms used to create "Oldskool demos", i.e. demos running on old computers: Commodore 64, ZX Spectrum, Amiga and Atari ST.
 

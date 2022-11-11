@@ -1,6 +1,6 @@
 # What is Demoscene?
 
-This is the first course in China that introduces the "Demoscene" as a digital cultural phenomenon from the perspective of humanities and social sciences.
+This is the first lesson in China that introduces the "Demoscene" as a digital cultural phenomenon from the perspective of humanities and social sciences.
 
 ## What is the scene?
 In this class, I would like to introduce you to the longest running digital cultural phenomenon that has had a considerable impact around the world: the Demoscene.
