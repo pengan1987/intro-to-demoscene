@@ -8,45 +8,45 @@ Since the demoscene accompanies almost the whole process of personal computer po
 ## The Formation of Demo Parties
 Before the Internet became popular, offline parties were the first place where the demoscene took place. To this day, one of the most important activities of the demoscene, the demo compo, still takes place mainly at parties held offline.
 
-The starting point of demo parties was the legalization of copy parties, a process that took place around the early 90s. At that time, the Internet was still far from popular, and printed materials and dial-up BBS were the main means of communication for the participants of the demoscene during this period. A good source is the "Got Papers?" website, which has a large collection of printed paper on the demoscene, which provides a glimpse of the real state of the demoscene in the 80s and 90s.
+The starting point of demo parties was the legalization of copy parties, a process that took place around the early 90s. At that time, the Internet was still far from popular, and printed materials and dial-up BBS were the main means of communication for the participants of the demoscene during this period. A good source is the "[Got Papers](https://gotpapers.scene.org/)" website, which has a large collection of printed paper on the demoscene, which provides a glimpse of the real state of the demoscene in the 80s and 90s.
 
-One of the most helpful parts of the Got Papers is the party invitations and posters, through which we can understand the identity of the party organizers and their working methods. Also, in these materials we can see that parties in the 1980s and early 1990s were often referred to as "copy parties," confirming the connection between the demoscene and the warez community I mentioned in lesson 3. The Warez community was one of the first organizers of underground computer parties whose main purpose was to invite enthusiasts to copy and distribute their cracked software at the parties.
+One of the most helpful parts of the Got Papers is the party [invitations and flyers](https://gotpapers.scene.org/?tag=flyers), through which we can understand the identity of the party organizers and their working methods. Also, in these materials we can see that parties in the 1980s and early 1990s were often referred to as "copy parties," confirming the connection between the demoscene and the warez community I mentioned in lesson 3. The Warez community was one of the first organizers of underground computer parties whose main purpose was to invite enthusiasts to copy and distribute their cracked software at the parties.
 
-In addition to the time and location of the party, many of the party posters included a map of the area around to make it easier for enthusiasts in other cities to find the party. Some invitations will also mention that they can provide space for sleeping bag camping, while others will mention the drinks and beverages prepared by the organizers for the visiting participants as well.
+In addition to the time and location of the party, many of the party flyers included a map of the area around to make it easier for enthusiasts in other cities to find the party. Some invitations will also mention that they can provide space for sleeping bag camping, while others will mention the drinks and beverages prepared by the organizers for the visiting participants as well.
 
-Some gatherings as early as 1988, such as Sweden's Vortex 42 Computer Meeting 1988 began to mention that the gathering would host competitions, and after 1990 Demo compo became more common. More detailed competition categories such as demo (program) competitions, image competitions, music competitions, etc. also appeared in many gatherings.
+Some gatherings as early as 1988, such as Sweden's [Vortex 42 Computer Meeting 1988](https://gotpapers.scene.org/wp-content/uploads/2018/05/vortex_42_computer_meeting_1988_invitation-1.jpg) began to mention that the gathering would host competitions, and after 1990 Demo compo became more common. More detailed competition categories such as demo (program) competitions, image competitions, music competitions, etc. also appeared in many gatherings.
 
-One of the major changes in the early 1990s was the legalization of parties, with many organizers of previous copy parties moving to "legal parties" and stating explicitly that cracking was discouraged and that "piracy was at your own risk". The core of the parties shifted from software cracking and copying to demo programming, showcasing and competitions.
+One of the major changes in the early 1990s was the legalization of parties, with many organizers of previous copy parties moving to "legal parties" and stating explicitly that cracking was discouraged and that "[piracy on your own risk](https://gotpapers.scene.org/?p=2891)". The core of the parties shifted from software cracking and copying to demo programming, showcasing and competitions.
 
-An important reason for this change was the police crackdown on software piracy, and the Got Papers also archives a set of documents called Marty/Radwar's House Search, provided by Marty, a member of the famous Commodore 64 software cracking group Radwar Enterprises 1941. These files documented a police search of Marty's house in late 1989, including the confiscation of 1,157 floppy disks. It was the legal risks and conflicts with the police faced by these late-80s crackers that contributed to the shift from copy parties to demo parties.
+An important reason for this change was the police crackdown on software piracy, and the Got Papers also archives a set of documents called [Marty/Radwar's House Search](https://gotpapers.scene.org/?p=902), provided by Marty, a member of the famous Commodore 64 software cracking group Radwar Enterprises 1941. These files documented a police search of Marty's house in late 1989, including the confiscation of 1,157 floppy disks. It was the legal risks and conflicts with the police faced by these late-80s crackers that contributed to the shift from copy parties to demo parties.
 
 In late 1991, the milestone of demo parties, The Party, was successfully held in Aars, Denmark, and its organization, contest rules, and prize money set served as a model for a series of demo parties that followed. The digital video first wild demo, Global Trash II, which we mentioned in lesson 6, was also launched at this party.
 
 ## Europe: the high ground for demo parties
 Today, the most popular demo parties are basically in Europe, I did a simple statistic on pouet.net, and we found that in the last five years, if we don't count purely online competitions like Lovebyte, the party with highest number of releases are Revision from Germany, CAFe from Russia, Assembly from Finland, Assembly from Finland, Silly venture from Poland, and Evoke from Germany.
 
-|Party|Location|Year|Releases
-|--|--|--|--|--|
-|Lovebyte|Netherlands (Online only)|2022|221
-|Lovebyte|Netherlands (Online only)|2021|204
-|Revision|Germany|2019|162
-|Revision|Germany|2021|155
-|Revision|Germany|2020|145
-|Revision|Germany|2018|124
-|Revision|Germany|2022|100
-|Intro Creation Competition|Germany (Online only)|2019|78
-|Intro Creation Competition|Germany (Online only)|2018|70
-|Assembly|Finland|2018|67
-|CAFe|Russia|2019|67
-|Assembly|Finland|2019|58
-|Evoke|Finland|2019|55
-|Silly Venture|Poland|2019|55
-|Outline|Netherlands|2021|50
-|Evoke|Germany|2018|46
-|Silly Venture|Poland|2018|45
-|Outline|Netherlands|2020|44
-|Silly Venture|Poland|2020|44
-|Function|Hungary|2018|43
+| Party | Location | Year | Releases |
+| ------ | ------ | ------ | ------ |
+| Lovebyte | Netherlands (Online only) | 2022 | 221 |
+| Lovebyte | Netherlands (Online only) | 2021 | 204 |
+| Revision | Germany | 2019 | 162 |
+| Revision | Germany | 2021 | 155 |
+| Revision | Germany | 2020 | 145 |
+| Revision | Germany | 2018 | 124 |
+| Revision | Germany | 2022 | 100 |
+| Intro Creation Competition | Germany (Online only) | 2019 | 78 |
+| Intro Creation Competition | Germany (Online only) | 2018 | 70 |
+| Assembly | Finland | 2018 | 67 |
+| CAFe | Russia | 2019 | 67 |
+| Assembly | Finland | 2019 | 58 |
+| Evoke | Finland | 2019 | 55 |
+| Silly Venture | Poland | 2019 | 55 |
+| Outline | Netherlands | 2021 | 50 |
+| Evoke | Germany | 2018 | 46 |
+| Silly Venture | Poland | 2018 | 45 |
+| Outline | Netherlands | 2020 | 44 |
+| Silly Venture | Poland | 2020 | 44 |
+| Function | Hungary | 2018 | 43 |
 
 During the development of demo parties, some of them gradually merged with LAN Parties, where games and e-sports are the main topic. For example, The Gathering party in Norway, which will be mentioned later, and Assembly in recent years have shown the trend of integration. If we go through the Assembly party website today, the party not only incorporates games and e-sports, but also includes cosplay and live content in the pan-gaming field.
 
@@ -60,7 +60,7 @@ In addition to the above three countries, some other European countries also hav
 
 The most prominent computer at the Russian parties was the ZX Spectrum, which, as we mentioned in the fourth lesson, Spectrum is the most popular 8-bit computer in Russia due to the economic level and the history of computer popularity, somewhat like the Famiclone based computers in China. Also Russian-specific BK0010/11M computers can be found at the Russian CAFe and DiHalt gatherings.
 
-Since demo parties are heavily concentrated in Europe, demos are sometimes referred to as "eurodemo", i.e. "European demos" in the famous hacker's dictionary Jargon File. We can also find an explanation of the word "demo", which mentions that demos "Often called eurodemos outside Europe, as most of the demoscene activity seems to have gathered in northern Europe and especially Scandinavia." In recent years, however, the term "eurodemo" has become less common than it once was, as the demoscene has spread its influence in the Americas, Australia and Japan.
+Since demo parties are heavily concentrated in Europe, demos are sometimes referred to as "eurodemo", i.e. "European demos" in the famous Jargon File. We can also find an [explanation of the word "demo"](http://catb.org/jargon/html/D/demo.html), which mentions that demos "Often called eurodemos outside Europe, as most of the demoscene activity seems to have gathered in northern Europe and especially Scandinavia." In recent years, however, the term "eurodemo" has become less common than it once was, as the demoscene has spread its influence in the Americas, Australia and Japan.
 
 ## What are demo parties all about?
 Next we look at what activities are included in a demo party, usually a compo is the centerpiece of a demo party. Smaller gatherings, such as the Russian DiHalt, have a schedule consisting entirely of competitions and no concerts, lectures, etc.
@@ -91,7 +91,7 @@ Flash Party is a demo party held in Argentina. It have been around in South Amer
 Australia's Syntax Party is also a demo party that has been running for over a decade. Both oscilloscopes and writing projectors have been present at the Syntax Party. From the above examples we can find that today demo parties are not only happening in Europe, but have become a global computer culture phenomenon.
 
 ## Demo parties: the "revolving door" of the gaming industry
-In Europe, many game professionals have had the experience of participating in demoscene and demo parties. The impact of demo parties on the games industry has been noted by European academics, and the 2014 article "Assembling a game development scene? Uncovering Finland's largest demo party", published in the Italian games research journal G|A|M|E in 2014, examined the connection between the Finnish Assembly demo party and the games industry. The paper cites the 2009 paper "Computer Hobbyists and the Gaming Industry in Finland" which states.
+In Europe, many game professionals have had the experience of participating in demoscene and demo parties. The impact of demo parties on the games industry has been noted by European academics, and the 2014 article "[Assembling a game development scene? Uncovering Finland's largest demo party](https://www.gamejournal.it/3_tyni_sotamaa/)", published in the Italian games research journal G|A|M|E in 2014, examined the connection between the Finnish Assembly demo party and the games industry. The paper cites the 2009 paper "[Computer Hobbyists and the Gaming Industry in Finland](https://muse.jhu.edu/article/316992/pdf)" which states.
 
 > Saarikoski & Suominen (2009) point out how demoscene has often been portrayed as a movement of “altruistic multimedia hackers fighting their way through the harsh realities of the entertainment business” (p. 30). Following this line of thought, our analysis begins by exploring the commercial aspects of Assembly. Interestingly, the interviews effectively debunk the romanticized accounts by highlighting how already the initial rapid growth led to readjustments toward more commercialized event. This was mostly visible through Assembly attracting sponsors already in its first year, 1992. The sponsors were mainly hardware manufacturers, some of which were offering free devices (for example sound cards) to demo builders, most likely to advertise their products.
 
@@ -126,7 +126,7 @@ If we search online for videos of these computer gatherings, we will find that m
 
 Elements related to demoscene also appear at some cyber security conferences such as LayerOne and DEF CON. Their competition rules are different from the usual demo parties, and often with a hardware developed specifically for use as the competition platform. For example, the demo compo at the LayerOne revolved around a L1 demoscene Board developed on a Microchip PIC24 microcontroller.
 
-DEF CON, which is also a cyber security conference, is one of the few foreign computer gathering brands that have ever entered China, and I attended DEF CON China 1.0 in Beijing's 798 Art District in 2019. one of the features of DEF CON gatherings is its electronic badges, which are themselves small game boards containing buttons and LED lights to solve small puzzle games. In Hackaday's 2018 documentary BadgeLife, this electronic badge-making activity is compared to hardware engineers' inheritance of the demoscene's competition culture.
+DEF CON, which is also a cyber security conference, is one of the few foreign computer gathering brands that have ever entered China, and I attended DEF CON China 1.0 in Beijing's 798 Art District in 2019. one of the features of DEF CON gatherings is its electronic badges, which are themselves small game boards containing buttons and LED lights to solve small puzzle games. In Hackaday's 2018 documentary [BadgeLife](https://hackaday.com/2018/08/20/badgelife-the-hardware-demoscene), this electronic badge-making activity is compared to hardware engineers' inheritance of the demoscene's competition culture.
 
 All of the above examples illustrate the cross-disciplinary and all-encompassing influence of the demoscene on computer culture. From video games to cyber security, all areas of computer culture are permeated with the demoscene's influence. Since the demoscene is almost completely absent from China, its brief appearance in the mid-2000s has left little trace, which leads to a large cultural gap in our understanding of overseas techno-cultural communities.
 
@@ -134,26 +134,26 @@ All of the above examples illustrate the cross-disciplinary and all-encompassing
 For Chinese researchers, it is a lesson that must be learned to truly understand the overseas techno-cultural demoscene. Fortunately the demoscene is equally active on the Internet and provides researchers with many resources that can be used as a starting point for research.
 
 ### Resources/Databases.
-Pouet.net is the site I personally use most often as a repository for all types of resources on demoscene. The BBS, which is over 20 years old, documents many of the events that have happened and are happening in the scenes and is also great for posting questions related to the scene. The artwork (prods) section contains a well-organized catalog of works, most of which can be downloaded and run, perhaps the biggest limitation is whether you can find the hardware or emulator to run them.
+[Pouet.net](https://www.pouet.net/) is the site I personally use most often as a repository for all types of resources on demoscene. There BBS, which is over 20 years old, documents many of the events that have happened and are happening in the scenes and is also great for posting questions related to the scene. The artwork (prods) section contains a well-organized catalog of works, most of which can be downloaded and run, perhaps the biggest limitation is whether you can find the hardware or emulator to run them.
 
-The GotPapers mentioned initially in this lesson is also an important research resource that holds many paper materials related to the demoscene, including correspondence, posters, lists, etc. These materials are particularly useful for studying the scene before the widespread use of the Internet in the 1990s.
+The [Got Papers](https://gotpapers.scene.org/) mentioned initially in this lesson is also an important research resource that holds many paper materials related to the demoscene, including correspondence, flyers, lists, etc. These materials are particularly useful for studying the scene before the widespread use of the Internet in the 1990s.
 
-A site often mentioned in many papers is CSDB, whose full name is The C-64 Scene Database, or Commodore 64 Scene Database, which archives more than 10,000 demo and crack groups, more than 20,000 community participants, over 200,000 entries, more than 2,400 events, and 2,087 BBSes.
+A site often mentioned in many papers is [CSDB](https://csdb.dk/), whose full name is The C-64 Scene Database, or Commodore 64 Scene Database, which archives more than 10,000 demo and crack groups, more than 20,000 community participants, over 200,000 entries, more than 2,400 events, and 2,087 BBSes.
 
-The Amiga also has a similar scene database, the ADA (Amiga demoscene Archive). In addition to this, as mentioned in lesson 8, Amiga computers have played an important role in the development of Tracker music and chip music, and the Amiga community has a dedicated music database, namely AMP (Amiga Music Preservation), which provides a list of music compositions from various periods on Amiga computers by authors, teams and countries, while all works can be downloaded as MOD, S3M and XM files in Tracker format, and they can usually be played with Foobar2000 or VLC, or edited and recreated with Tracker software.
+The Amiga also has a similar scene database, the [ADA(Amiga demoscene Archive)](https://ada.untergrund.net/). In addition to this, as mentioned in lesson 8, Amiga computers have played an important role in the development of Tracker music and chip music, and the Amiga community has a dedicated music database, namely [AMP(Amiga Music Preservation)](https://amp.dascene.net/), which provides a list of music compositions from various periods on Amiga computers by authors, teams and countries, while all works can be downloaded as MOD, S3M and XM files in Tracker format, and they can usually be played with Foobar2000 or VLC, or edited and recreated with Tracker software.
 
-If one wish to find demo party related information, the most important resource is demoparty.net, which has been running since 2005 and keeps a lot of demo party related information, and many parties that are still in preparation or will be held soon will also post their information on this site.
+If one wish to find demo party related information, the most important resource is [demoparty.net](https://www.demoparty.net/), which has been running since 2005 and keeps a lot of demo party related information, and many parties that are still in preparation or will be held soon will also post their information on this site.
 
 ### Academic, research-related sites
-Some scholars who are concerned with the demoscene also post their research developments on the Internet. One of the most important resources for chip music is Chipflip, which is maintained by Anders Carlsson (GOTO80) and contains articles that are usually short in length but cover a wide range of topics. In addition to the demoscene and chip music introduced in this series of courses, it also includes quite a few ASCII Art, PETSCII Art related textual graphic art content. In addition, GOTO80's personal website goto80.com also includes a lot of content related to demoscene and computer culture.
+Some scholars who are concerned with the demoscene also post their research developments on the Internet. One of the most important resources for chip music is [Chipflip](https://chipflip.wordpress.com/), which is maintained by Anders Carlsson (GOTO80) and contains articles that are usually short in length but cover a wide range of topics. In addition to the demoscene and chip music introduced in this series of courses, it also includes quite a few ASCII Art, PETSCII Art related textual graphic art content. In addition, GOTO80's personal website [goto80.com](https://www.goto80.com/) also includes a lot of content related to demoscene and computer culture.
 
-Another place to find research resources related to the demoscene is the Finnish media culture journal Widerscreen. Due to the early development and high level of the demoscene in Finland, and the fact that it has been recognized as a Finnish intangible cultural heritage, its related academic research is also relatively advanced, with many articles related to the demoscene and other technical cultures such as chip music and ASCII Art, both in English and Finnish, have been published in Widerscreen.
+Another place to find research resources related to the demoscene is the Finnish media culture journal [Widerscreen](http://widerscreen.fi/). Due to the early development and high level of the demoscene in Finland, and the fact that it has been recognized as a Finnish intangible cultural heritage, its related academic research is also relatively advanced, with many articles related to the demoscene and other technical cultures such as chip music and ASCII Art, both in English and Finnish, have been published in Widerscreen.
 
-Another resource for demoscene research is the Demoscene Research website, which is an academic resource for demoscene research maintained by researchers from Finland, Germany, and other places.
+Another resource for researcher is the [Demoscene Research](http://www.kameli.net/demoresearch2/) website, which is an academic resource maintained by researchers from Finland, Germany, and other places.
 
 ### Infrastructure sites
-The last category of websites can be considered as infrastructure for the whole demoscene, for example SceneSat is an online radio and TV station that provides video and audio streaming and archives for demoscene-related events. For demoscene, commercial video sites like Twitch cannot be trusted, as Revision Party 2021 was banned by Twitch for no reason during its broadcast. After the ban, Revision Party chose to use the Chaos Computer Club's C3Voc (CCC Video Operation Center), which we mentioned in the second lesson, to broadcast.
+The last category of websites can be considered as infrastructure for the whole demoscene, for example [SceneSat](https://scenesat.com/) is an online radio and TV station that provides video and audio streaming and archives for demoscene-related events. For demoscene, commercial video sites like Twitch cannot be trusted, as Revision Party 2021 was banned by Twitch for no reason during its broadcast. After the ban, Revision Party chose to use the Chaos Computer Club's [C3Voc(CCC Video Operation Center)](https://c3voc.de/), which we mentioned in the second lesson, to broadcast.
 
-untergrund.net is a web hosting provider dedicated to the demoscene, offering free web hosting space for demoscene related projects. The Amiga demoscene archive we just mentioned, the GotPapers, the chiptune.com, the demo party @party in Boston, USA, and other sites are all hosted by it.
+[Untergrund.net](https://www.untergrund.net/) is a web hosting provider dedicated to the demoscene, offering free web hosting space for demoscene related projects. The Amiga demoscene archive we just mentioned, the GotPapers, the chiptune.com, the demo party @party in Boston, USA, and other sites are all hosted by it.
 
 That's all for today. I believe that through this lesson, you will have a clearer understanding of the online and offline communication spaces in the demoscene.
