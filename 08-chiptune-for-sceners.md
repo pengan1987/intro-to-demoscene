@@ -1,4 +1,4 @@
-# Chip Music as Hacker Culture
+# Chip music as hacker culture
 Today is the eighth lesson of the Introduction to the demoscene, and this time I hope to answer the question posed at the end of the last lesson: why do the core players in the chip music scene oppose the idea of chip music as some sort of video game derivatives?
 
 In the end of last lesson, we found that both Bryan Chan, the founder of Vancouver Chip Music Society, and Sulumi, one of the most influential chip musicians in China, the leaders of the chip music community, were all expressing one view: "chip music is not video game music." One of the most important reasons for this is that after the game industry phased out the use of programmable sound generators (PSG) based chip music in the 1990s, the core group of chip music creators has shifted significantly: from professional game developers to an underground community of computer enthusiasts centered on the demoscene. With this shift, the mainstream values of the chip music community have also shifted towards a "hacker ethic" and a clear divergence from the commercialized video game business.

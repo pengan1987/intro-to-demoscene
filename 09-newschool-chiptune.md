@@ -1,4 +1,4 @@
-# "New Generation" Chip Music Scene
+# "New generation" chip music scene
 Hello everyone, today is the ninth lesson in the "Introduction to the demoscene" series, and the last lesson on the topic of "Chip Music". In the previous two lessons of "Chip Music", we reviewed the origins of chip music's origin of 8-bit games and its development by demoscene, but today's lesson will focus on the part of chip music outside of the game and demoscene - specifically, the chip music community that is neither game music nor part of demoscene, as represented by LSDJ and Nanoloop from the mid to late 90s onwards.
 
 ## Chip music doesn't always follow the principles of executable in demoscene
@@ -6,7 +6,7 @@ In mainstream demoscene practice, the audiovisual effects of demo programs are d
 
 But for chip music authors, although they also create executable music programs and basically follow the rules common to other categories of demoscene competitions, such as restrictions on running platform, playing time, and program capacity. But there is another audience-oriented context for their work, namely live performances. In the chip music scene, some musicians have built their reputation entirely on live performances without experience in producing executable music programs.
 
-The 2013 book "Music and Game: Perspectives on a Popular Alliance" includes Matthias Pasdzierny's paper "Geeks on Stage? Investigations in the World of (Live) Chipmusic", which describes in some detail the emergence and development of chip music as a live performance.
+The 2013 book "Music and Game: Perspectives on a Popular Alliance" includes Matthias Pasdzierny's paper "[Geeks on Stage? Investigations in the World of (Live) Chipmusic](https://link.springer.com/chapter/10.1007/978-3-531-18913-0_10)", which describes in some detail the emergence and development of chip music as a live performance.
 
 In this paper, the author points out that there is a lot of ambiguity in the definition of "chip music" today, especially since the applications of sound chips are not limited to home computers and game consoles, but include toys, telephones, musical instruments, and so on.
 
@@ -19,7 +19,7 @@ He therefore focuses the discussion on "scenes" rather than "chips" and points t
 ## The first generation of chip musicians who took hardware seriously
 Overseas researchers largely acknowledge that the chip music "scene" was formed in the demoscene, and are members of the "first generation" of the chip music scene. They also point out that from the mid to late 1990s onwards, new chip music producers often ceased to be closely associated with the demoscene, and that the chip music scene gradually separated from the demoscene and became a new scene with its own activities, terminology and cultural symbols.
 
-These new members of the demoscene are known as the "second" and "third" generation of chip music makers. In Matthias Pasdzierny's paper, the term "second generation" or "new school" is used to describe the newer, more performance-oriented, less technically oriented faction of the chip music scene that emerged around 2000; and in Marilou Polymeropoulou's "Chipmusic, Fakebit and the Discourse of Authenticity in the Chipscene" adds a description of the "third generation" of chip musicians who are more culturally rebellious and disregardful of hardware characteristics.
+These new members of the demoscene are known as the "second" and "third" generation of chip music makers. In Matthias Pasdzierny's paper, the term "second generation" or "new school" is used to describe the newer, more performance-oriented, less technically oriented faction of the chip music scene that emerged around 2000; and in Marilou Polymeropoulou's "[Chipmusic, Fakebit and the Discourse of Authenticity in the Chipscene](http://widerscreen.fi/numerot/2014-1-2/chipmusic-fakebit-discourse-authenticity-chipscene/)" adds a description of the "third generation" of chip musicians who are more culturally rebellious and disregardful of hardware characteristics.
 
 "Geeks on Stage? Investigations in the World of (Live) Chipmusic" confirms a point we made at the beginning of this lesson, namely that chip music in the period when it was born, and therefore born in the demoscene, initially followed a showcase process of programming and executing demos without live performance.
 
@@ -58,9 +58,9 @@ These three software programs basically covered the various groups of software s
 Although Oliver uses software developed by demoscene, such as Fasttracker, he does not consider his work to be in the "demoscene style" and his reasons for using FastTracker are entirely functional. Also Oliver ruled out any relationship with Nintendo, the developer of the Game Boy, in the interview, including official development tools or access to cassette licensing.
 
 ## LSDJ
-The emergence of LSDJ is more closely tied to the demoscene than Nanoloop. In a 2012 interview, LSDJ author Johan Kotlinski mentioned that some of his friends were members of the Swedish Hack n' Trade demo group and that they all shared the same interest in Commodore 64 and Amiga music, while he also He also mentions having used Musicline Editor, a music production tool that runs on Amiga computers, which was also developed by demoscene.
+The emergence of LSDJ is more closely tied to the demoscene than Nanoloop. In a [2012 interview](https://chipmusic.org/forums/topic/6612/interview-with-johan-kotlinski/), LSDJ author Johan Kotlinski mentioned that some of his friends were members of the Swedish Hack n' Trade demo group and that they all shared the same interest in Commodore 64 and Amiga music, while he also He also mentions having used Musicline Editor, a music production tool that runs on Amiga computers, which was also developed by demoscene.
 
-In another interview from 2020, Johan describes the situation more specifically, mentioning another musician, GOTO80, who was a member of Hack n' Trade, Anders Carlsson.
+In [another interview from 2020](https://defensemech.com/intense-tech/en/13-interview-with-lsdj-developer-johan-kotlinski.md.html), Johan describes the situation more specifically, mentioning another musician, GOTO80, who was a member of Hack n' Trade, Anders Carlsson.
 
 > Like many others in Sweden, I grew up with Commodore 64 and Amiga and so got accustomed to these sounds early on. Early 90s, I learned Protracker and shared .mod files on bulletin board systems, and made friends over FidoNet who shared my taste in music; mostly the techno/house/IDM stuff that were popular back then.
 
@@ -72,7 +72,7 @@ In another interview from 2020, Johan describes the situation more specifically,
 
 > It was around this time I started to make some kind of music program for the Game Boy Color, which turned out to be surprisingly fun. I named it Little Sound Dj, sold cartridges over the internet and to a local record store. I found more like-minded people in Stockholm and on the Internet. From there on, thanks to [micromusic.net](http://micromusic.net) and other early Internet communities, things kind of exploded. Suddenly, lots of people who were thinking that this music deserved to be treated as "real music" realized they were not alone, learned how to network and organize shows. It got recognized as a movement of sorts. And from there, it just continued.
 
-In 2009, Johan Kotlinski wrote an article "Amiga Music Programs 1986- 1995" also reflects the author's knowledge of the Commodore 64 and Amiga music programs used by demoscene.
+In 2009, Johan Kotlinski wrote an article "[Amiga Music Programs 1986- 1995](http://goto80.com/chipflip/dox/kotlinski_(2009)_amiga_music_programs_89-95.pdf)" also reflects the author's knowledge of the Commodore 64 and Amiga music programs used by demoscene.
 
 However, similar to Nanoloop, LSDJ borrows some ideas and techniques from demoscene, but its developers are not themselves part of the demo group and its capability may not be in line with the need to create demos. As GOTO80 mentioned, developers in the demoscene usually don't let the music program use all the CPU resources because the demo program needs extra resources to process the graphics, but for chip music developers, their software will use all the CPU resources to process the music.
 
@@ -113,7 +113,7 @@ The second generation of chip musicians mentioned in "Chipmusic, Fakebit and the
 
 It should be noted that today's chip music scene is largely defined by the second generation of chip musicians, who redefined the cold and technical definition of the first generation of chip music to make it more compatible with the techno-cultural context.
 
-The practice of creating "fake chips" with emulator software has been emerging since the second generation of chip musicians, and the most important reason for using fake chips is to circumvent the complexity of real hardware, "Chipmusic, Fakebit and the Discourse of Authenticity in the Chipscene" also refers to the tagline written by Canadian software developer Plogue for the fake chip synthesizer ChipSounds.
+The practice of creating "fake chips" with emulator software has been emerging since the second generation of chip musicians, and the most important reason for using fake chips is to circumvent the complexity of real hardware, "Chipmusic, Fakebit and the Discourse of Authenticity in the Chipscene" also refers to the [tagline](https://www.plogue.com/products/chipsounds.html) written by Canadian software developer Plogue for the fake chip synthesizer ChipSounds.
 
 - You can actually use a standard MIDI controller to start composing chip music.
 - You DON'T need to deal with a small and hard to read interface.
@@ -146,7 +146,7 @@ To a certain extent, this also explains the confusion in the understanding of ch
 ## The stagnation and revival of chip music in Japan
 In China, the 8-bit computers with PSG widely used in Europe were almost never popular, and almost everyone's exposure to chip music was through Japanese game consoles or more specifically Famicom and its clones(Famiclone). As a result there is often a misconception in China that chip music is part of Japanese culture. But as described in the previous three lessons, when the game industry abandoned the use of chip music, almost all of the development around sound chips was done by Europeans throughout the 1990s, and chip music in Japan was almost at a standstill.
 
-In 2001 summary article, Japanese chip music researcher and VORC.org webmaster Haruhisa Tanaka(hally) described his impressions of American composer Jake Kaufman's (Virt) album in the following way.
+In [2001 summary article](http://www.vorc.org/en/columns/hally/2001best10e.html), Japanese chip music researcher and VORC.org webmaster Haruhisa Tanaka(hally) described his impressions of American composer Jake Kaufman's (Virt) album in the following way.
 
 > ("FX EP")Not only the composition is excellent, but he succeed to imitate old Konami style completely. Maybe it isn't possible for today's Japanese musicians, including Konami. Virt can be the only successor to Konami of those days. This means Japanese chiptune style is dead in Japan, but appreciated in USA/Europe. So "FX EP" became a turning point of Japanese chiptune.
 
@@ -167,7 +167,7 @@ In addition, hally also mentioned that the tools around 2002 around the Red and 
 > On the other hand, other music editors to make NSF files such as NerdTracker2 (for DOS/Windows, Dec.) and cheestracker (for Linux, Jan.) were brought. Now you can select your favorite ways. Hope this revolution will cause a little change to Japanese ossified chip musicians who isn't motivated to compose their original music yet.
 
 ## Why is there no demoscene in Japan?
-It's not hard to understand why Japanese chip music has stagnated. Japan doesn't have a equivalent to the demoscene to inherit and develop chip music production techniques. But why there is no demoscene in Japan? Japanese game developer, Koichi Yoshida (yosshin4004), the author of Cho Ren Sha 68K, summarized it in more detail in "Situation in Japan before the outbreak of the demoscene" (デモシーン発生前の日本の狀況), where he argued that the reasons for the lack of a demoscene in Japan were as follows.
+It's not hard to understand why Japanese chip music has stagnated. Japan doesn't have a equivalent to the demoscene to inherit and develop chip music production techniques. But why there is no demoscene in Japan? Japanese game developer, Koichi Yoshida (yosshin4004), the author of Cho Ren Sha 68K, summarized it in more detail in "Situation in Japan before the outbreak of the demoscene" ([デモシーン発生前の日本の狀況](https://yosshin4004.github.io/demoscene/japanese_scene/index.html#Why_the_demoscene_did_not_exist_in_Japan)), where he argued that the reasons for the lack of a demoscene in Japan were as follows.
 
 - In Japan, video game consoles have become more popular, which has reduced the exposure of Japanese youth to graphics programming
 - The pattern of software cracking activities in Japan is different from that of overseas, as cracking activities in Japan are more hidden and no one makes cracking credits to reveal their identity as crackers, which is obviously different from the situation of cracking openly especially compared to Eastern Europe where it is difficult to obtain genuine software.

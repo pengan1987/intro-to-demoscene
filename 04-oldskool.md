@@ -1,5 +1,4 @@
 # Old computers in the scene
-
 Today is the fourth lesson in the introduction to demoscene. Starting with this lesson, we will discuss the evolution of the means and content of demoscene in terms of the mediums used to create them, and in particular the computer platforms. Today is the first lesson of this unit and we would like to explore the most common types of computer platforms used to create "Oldskool demos", i.e. demos running on old computers: Commodore 64, ZX Spectrum, Amiga and Atari ST.
 
 Oldskool demos are the earliest and longest-running category in the entire demoscene, and these old computers are not only the most important computer platforms for making demos, but also the most popular and active computer platforms for the retro-computing communities.

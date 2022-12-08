@@ -1,4 +1,4 @@
-# Parties and Websites
+# Parties and websites
 Today is lesson 10 of Introduction to demoscene. In this lesson we want to focus on how the demoscene is organized and what the shape of its communication and exchange looks like.
 
 We've been able to get a general idea of how the demoscene is organized through the previous lessons: much of the content about the demoscene is collected and organized on some dedicated websites, and the people in the demoscene mainly meet offline to present, communicate, and compete. This is what we have mentioned in the first lesson, that there are two forms of enthusiasts gathering and communicating in the demoscene: online forums and offline parties.

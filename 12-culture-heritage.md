@@ -42,7 +42,7 @@ UNESCO's definition of intangible cultural heritage in fact emphasizes the conte
 
 The contemporary and living nature of ICH is a point that is often overlooked in the current discussion of "ICH" in the Chinese context. I think this is a concept that we should update in particular.
 
-But if we look further into the definition of ICH in the Convention for the Safeguarding of the Intangible Cultural Heritage, we can see that the Convention does not emphasize "long history", but rather adaptation and interaction with the environment, and "constantly recreated".
+But if we look further into the definition of ICH in the [Convention for the Safeguarding of the Intangible Cultural Heritage](https://unesdoc.unesco.org/ark:/48223/pf0000132540), we can see that the Convention does not emphasize "long history", but rather adaptation and interaction with the environment, and "constantly recreated".
 
 > The "intangible cultural heritage" means the practices, representations, expressions, knowledge, skills – as well as the instruments, objects, artefacts and cultural spaces associated therewith – that communities, groups and, in some cases, individuals recognize as part of their cultural heritage. This intangible cultural heritage, transmitted from generation to generation, is constantly recreated by communities and groups in response to their environment, their interaction with nature and their history, and provides them with a sense of identity and continuity, thus promoting respect for cultural diversity and human creativity. 
 
@@ -51,7 +51,7 @@ Therefore, it is clear that "intangible heritage" is not something that is consi
 By reconceptualizing UNESCO's interpretation of "intangible heritage," we have, in part, explained the reasons why digital cultural phenomena, such as demoscene, which make extensive use of computer technology, have become intangible heritage. The German application, which is the most publicly available, explains in more detail how the demoscene meets UNESCO's requirements for an ICH.
 
 ## Overview of the German application file
-The application file for Germany, which is publicly available on the Art-of-Coding website, begins with a description of how to categorize the cultural heritage of the items under application, which is required for applications by UNESCO in Germany, using five keyword groups to summarize the characteristics of the cultural activities included in the application.
+The [Germany application file](http://demoscene-the-art-of-coding.net/wp-content/uploads/2020/01/AoC_German_appliaction_Oct2019_pub.pdf), which is publicly available on the Art-of-Coding website, begins with a description of how to categorize the cultural heritage of the items under application, which is required for applications by UNESCO in Germany, using five keyword groups to summarize the characteristics of the cultural activities included in the application.
 
 > Section A) verbally passed on traditions and expressions
 > [keywords]: own technical vocabulary, own idiom with specialized terminology, English is lingua franca

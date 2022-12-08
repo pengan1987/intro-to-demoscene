@@ -1,4 +1,4 @@
-# What is Demoscene?
+# What is demoscene?
 
 This is the first lesson in China that introduces the "Demoscene" as a digital cultural phenomenon from the perspective of humanities and social sciences.
 

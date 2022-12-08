@@ -1,4 +1,4 @@
-# Computer Hobbyist Communities in Europe
+# Computer hobbyist communities in Europe
 Today is the second lesson of the Introduction to the Demoscene: The European Computer Enthusiast Community. While the demoscene is a global scene, its core community is primarily located in Europe. So naturally we have the question, why did the demoscene arise and flourish more in Europe? What does the foundation of its community look like? How does it relate to the history of computing?
 
 ## The personal computer revolution didn't just happen in America
