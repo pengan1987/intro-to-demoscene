@@ -5,7 +5,7 @@ This is the first lesson in China that introduces the "Demoscene" as a digital c
 ## What is the scene?
 In this class, I would like to introduce you to the longest running digital cultural phenomenon that has had a considerable impact around the world: the Demoscene.
 
-First of all, let's talk about why it is called Demoscene, and then look at what it is, then we generally look at its name, in fact, is a synthetic word, is the demoscene, then what is a scene? The [Cambridge Dictionary](https://dictionary.cambridge.org/us/dictionary/english/scene) said "scene" means:
+First of all, let's talk about why it is called Demoscene, and then look at what it is, then we generally look at its name, in fact, is a synthetic word, is the demo-scene, then what is a scene? The [Cambridge Dictionary](https://dictionary.cambridge.org/us/dictionary/english/scene) said "scene" means:
 
 > a particular area of activity and all the people or things connected with it.
 
