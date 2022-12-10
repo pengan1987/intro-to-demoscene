@@ -50,7 +50,7 @@ Today, the most popular demo parties are basically in Europe, I did a simple sta
 
 During the development of demo parties, some of them gradually merged with LAN Parties, where games and e-sports are the main topic. For example, The Gathering party in Norway, which will be mentioned later, and Assembly in recent years have shown the trend of integration. If we go through the Assembly party website today, the party not only incorporates games and e-sports, but also includes cosplay and live content in the pan-gaming field.
 
-The German demo party Revision is currently the largest pure demo party that does not include game content, with hundreds of demos released in each year. In order to accommodate as many entries as possible, Revision has also designed more detailed categories, such as 4K demo, Amiga computer demo, etc. are often combined with other types of compos in recent years are separate.
+The German demo party Revision is currently the largest pure demo party that that discourage gaming and one of the few that [explicitly refuses gaming](https://2019.revision-party.net/about/rules) at the party in the rules. Revision has hundreds of demos released each year. In order to accommodate as many entries as possible, the organizer has also designed more detailed categories, such as 4K demo, Amiga computer demo, etc. are often combined with other types of compos in recent years.
 
 Silly Venture in Poland is also one of the richest demo parties in terms of entries, and has been held for more than 20 years since 2000. Since Atari 8-bit and Atari ST are more popular in Poland, Silly venture participants also place more emphasis on the features of Atari computers.
 
