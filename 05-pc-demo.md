@@ -25,7 +25,7 @@ For similar reasons, most Macintosh models in the 1980s only had black and white
 
 Multimedia specifications for several popular home computers of the 1980s.
 
-||Sound|Image|
+|Machine|Sound|Graphic|
 |--|--|--|
 |Apple II|single timer (buzzer)|16 colors, low resolution, dual video pages8 colors, high resolution, dual video pages
 |Apple IIGS|15-channel digital audio (stereo)|-low resolution: rate of 16 colors, 2 page switching, 40 * 40 plus 4 lines of text; high resolution: 4 colors (8 colors, but repeated) dual video pages; double high resolution: 16 colors, dual video pages; ultra-high resolution (only for IIGS): 16 colors selected from 4096 colors per scan line
