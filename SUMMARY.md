@@ -7,7 +7,7 @@
 * [4. Old computers in the scene](04-oldskool.md)
 * [5. PC demo](05-pc-demo.md)
 * [6. Wild demo](06-wilddemo.md)
-* [7：Sound chips and chip music](07-soundchip-chiptune.md)
+* [7. Sound chips and chip music](07-soundchip-chiptune.md)
 * [8. Chip music as hacker culture](08-chiptune-for-sceners.md)
 * [9. "New generation" chip music scene](09-newschool-chiptune.md)
 * [10. Parties and websites](10-parties-websites.md)
