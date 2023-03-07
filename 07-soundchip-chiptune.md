@@ -116,18 +116,16 @@ The most common Yamaha FM synthesis chip is the OPL2, which is the chip used in 
 
 The OPN (YM2203) chip, which can be found in some NEC PC-8801 and PC-9801 computers, has 3 Channels and 4 Operators; the OPN2 (YM2612), which is the FM sound chip used in the Sega Genesis, has 6 Channels and 4 Operators. The OPM (YM2151) chip is used on the Sharp X68000, a Japanese home computer that uses the Motorola 68000 processor, and it has 8 Channels and 4 Operators.
 
-## Buzzer Music: "Chip Music" without a sound chip
-One type of music that does not use a sound chip, but is still often discussed under the topic of chip music, is the PC buzzer. A series of computers, including the ZX Spectrum, Apple II, and IBM PC without a sound card, do not come standard with a sound chip, but have a buzzer that can be programmed and controlled to output sound.
+## 1-Bit: "Chip Music" without a sound chip
+There is a type of music does not use a sound chip, but is still often discussed under the topic of chip music. "1-Bit" or "beeper" music is produced by a CPU directly controlling a beeper. A series of computers, including the ZX Spectrum, Apple II, and IBM PC without a sound card, do not come standard with a sound chip, but have a beeper that can be programmed and controlled to output sound.
 
-The function of the buzzer on these computers depended entirely on CPU performance, and on models with weaker CPU performance, the buzzer could often only be controlled to emit a simple ticking sound, as represented by the early PC music editing program EA Music Construction Set on the buzzer.
+The name "1-bit" comes from the way beeper is controlled by the CPU: the beeper has only two states, on and off, and controlled by a 1-bit register. To produce a sound of a specific frequency, the associated register state needs to be changed continuously at a specific frequency. This type of operation often consumes all the processing power of an 8-bit microprocessor. Therefore, from this perspective, the sound chip in 1-bit music is the CPU of the corresponding computer platform.
 
-However, when using an Intel 486 or faster CPU, it was possible to use the buzzer to play digital audio; with a Pentium or higher CPU, the buzzer could also play back digital audio with a higher sample rate, and could even be used to listen to MP3s.
+The platform where 1-bit beeper music was highly developed and became an important part of chip music is the ZX Spectrum. In the mid-1980s, pulse-width modulation (PWM) was used to produce multiple polyphonic voices in the ZX Spectrum. Tim Follin's Agent X is a representative ZX Spectrum music from this period, which implemented a five-voices music routine using a 3.5 MHz Z80 processor. In 1987, Tim Follin also published his three-voices music code in "Your Sinclair" magazine, making this practice more widely spread in the ZX Spectrum scene.
 
-The PC demos of the 90s used high performance CPUs for mixing, and could also play back 4-channel audio made for the Amiga computer on the PC buzzer. The Amiga computer supported PCM digital audio sampling and playback, and it happened to be at 8-bit sample depth. But you will find that the digital audio "8-bit" sound is actually not "chip".
+In today's chip music scene, the ZX Spectrum beeper is still the most important 1-bit music platform, with a large number of works on chip music websites such as "battle of the bits."
 
-In the 1990s, because the CPU performance is powerful enough to use PC buzzer playback audio, while the PC sound card is still more expensive, so there is a series of Windows drivers can use the PC buzzer as the audio output device for Windows, which is considered a small fork in the development of PC audio process.
-
-All in all, the number of productions using buzzers is small and many times excluded from several discussions about chip music due to the lack of a sound chip, but when discussing games and demo music, buzzers are still a topic that comes up from time to time for platforms that are not configured with a sound chip by default, such as the Apple II and ZX Spectrum.
+In the mid-1990s, with the use of high-performance x86 processors such as the Intel 486 and Pentium, some PC demos used CPUs for mixing, allowing PC beepers to play four-channel audio produced for Amiga computers. Some DOS and Windows software can also use PC beepers as digital audio output devices.
 
 ## How is chip music written?
 For game developers in the 1980s, writing chip music often required sufficient familiarity with the hardware and strong programming skills, as described in the paper "Before Red Book: Early Video Game Music and Technology" citing a talk by chip musician Rob Hubbard at the 2002 Assembly gathering.
