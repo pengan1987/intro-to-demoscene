@@ -1,6 +1,6 @@
 # Introduction of demoscene
 
-In early 2022, I was invited by Professor Huang Sunquan to visit the Institute of Network Society at the China Academy of Art and offer a series of Introduction to the Demo Scene lecture, the first time the digital cultural phenomenon of the demoscene appeared in a Chinese classroom.
+In early 2022, I was invited by Professor Huang Sunquan to visit the Institute of Network Society at the China Academy of Art and offer a series of Introduction to Demoscene lecture, the first time the digital cultural phenomenon of the demoscene appeared in a Chinese classroom.
 
 Most of my students in this class came from humanities and art backgrounds, and they had usually studied courses like art criticism, contemporary art, and art theory, and were familiar with contemporary art and new media art exhibitions and works such as Documenta and Ars Electronica. But almost all of them have never heard of demoscene.
 
@@ -11,3 +11,5 @@ The course is divided into four units, the first of which introduces the histori
 As an Asian observer of the demoscene is facing huge cultural differences, in this series I use some Chinese and Japanese cultural phenomena as comparisons to help my students understand the concepts involved, but also to show how cultural differences work in the context of the Internet.
 
 Preview the book on [GitBook](https://compumuseum.gitbook.io/introduction-to-demoscene/)
+
+Suggestions for revision on [Github](https://github.com/pengan1987/intro-to-demoscene)
